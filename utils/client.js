@@ -1,14 +1,13 @@
-/// HARDHAT LOCAL NETWORK
+//// HARDHAT LOCAL NETWORK
 // import { createPublicClient, http} from "viem";
 // import { hardhat, sepolia } from "viem/chains";
-
 // export const publicClient = createPublicClient({
 //     chain: hardhat,
 //     transport: http(),
 // });
 //////////////////////
 
-/// ALCHEMY SEPOLIA
+//// ALCHEMY SEPOLIA
 import {createPublicClient, http} from "viem";
 import {sepolia} from "viem/chains";
 
