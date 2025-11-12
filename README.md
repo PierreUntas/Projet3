@@ -3,6 +3,7 @@
 This repository is a Next.js frontend for interacting with a Solidity voting smart contract (`Voting.sol`). The app uses RainbowKit and wagmi for wallet connection and transaction signing, and viem for read-only contract calls. The UI allows the owner to register voters, voters to submit proposals and cast votes, and anyone with the proper permissions to view results.
 Original repository with the frontend and the backend Hardhat project: https://github.com/PierreUntas/Ethereum-Dev/tree/main/6.%20Dapp/Projet3
 Link to public deployment: https://projet3-delta.vercel.app
+Link to video demo: https://app.filmora.io/#/object/d4a6njau3bmubujchj9g?source=%7B%22product_id%22:%227556%22,%22product_page%22:%22share_url%22,%22product_version%22:%2214.10.5.8355%22%7D
 
 ## Quick overview
 
