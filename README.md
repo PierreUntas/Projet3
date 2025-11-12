@@ -1,6 +1,7 @@
 # Voting DApp
 
 This repository is a Next.js frontend for interacting with a Solidity voting smart contract (`Voting.sol`). The app uses RainbowKit and wagmi for wallet connection and transaction signing, and viem for read-only contract calls. The UI allows the owner to register voters, voters to submit proposals and cast votes, and anyone with the proper permissions to view results.
+(original repository with the frontend and the backend Hardhat project)
 
 ## Quick overview
 
